@@ -12,6 +12,9 @@ helix-importer-ui
 !CLAUDE.md
 !AGENTS.md
 
+# MCPs Directory
 screenshots
-.playwright-cli/
+.playwright-cli
+
+#other
 .aem-cli.log
