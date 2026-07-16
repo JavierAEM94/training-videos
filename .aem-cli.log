@@ -8,3 +8,5 @@ info: Starting AEM dev server v16.21.0
 info: Local AEM dev server up and running: http://localhost:3000/
 info: Enabled reverse proxy to https://main--training-videos--JavierAEM94.aem.page
 warn: [0] Proxy GET request to https://main--training-videos--javieraem94.aem.page/: 404 (text/html; charset=utf-8)
+git HEAD or remotes changed, reconfiguring server...
+Updated proxy to https://main--training-videos--JavierAEM94.aem.page
